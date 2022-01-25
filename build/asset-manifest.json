@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/main.8b21c420.chunk.css",
-    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.ffbbc290.chunk.js",
+    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.55793e04.chunk.js",
     "runtime-main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/runtime-main.01ecee98.js",
     "static/css/2.df7918ac.chunk.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/2.df7918ac.chunk.css",
     "static/js/2.09793ef5.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.09793ef5.chunk.js",
@@ -34,6 +34,6 @@
     "static/css/2.df7918ac.chunk.css",
     "static/js/2.09793ef5.chunk.js",
     "static/css/main.8b21c420.chunk.css",
-    "static/js/main.ffbbc290.chunk.js"
+    "static/js/main.55793e04.chunk.js"
   ]
 }
