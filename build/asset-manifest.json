@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/main.8b21c420.chunk.css",
-    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.55793e04.chunk.js",
+    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.23ec78e3.chunk.js",
     "runtime-main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/runtime-main.01ecee98.js",
-    "static/css/2.df7918ac.chunk.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/2.df7918ac.chunk.css",
-    "static/js/2.09793ef5.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.09793ef5.chunk.js",
+    "static/css/2.524ca508.chunk.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/2.524ca508.chunk.css",
+    "static/js/2.767919fc.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.767919fc.chunk.js",
     "static/js/3.e71496bd.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/3.e71496bd.chunk.js",
     "index.html": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/index.html",
-    "static/js/2.09793ef5.chunk.js.LICENSE.txt": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.09793ef5.chunk.js.LICENSE.txt",
+    "static/js/2.767919fc.chunk.js.LICENSE.txt": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.767919fc.chunk.js.LICENSE.txt",
     "static/media/Apple.836ab751.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/Apple.836ab751.svg",
     "static/media/BlackSheep.f35eb150.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/BlackSheep.f35eb150.svg",
     "static/media/Fire.4b056ac1.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/Fire.4b056ac1.svg",
@@ -27,13 +27,14 @@
     "static/media/line.ac7f875e.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/line.ac7f875e.svg",
     "static/media/logo.fc0acce4.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/logo.fc0acce4.png",
     "static/media/panel_background.df2d2854.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/panel_background.df2d2854.png",
+    "static/media/sheep.6dd264bd.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/sheep.6dd264bd.png",
     "static/media/winner.d3bab458.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/winner.d3bab458.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01ecee98.js",
-    "static/css/2.df7918ac.chunk.css",
-    "static/js/2.09793ef5.chunk.js",
+    "static/css/2.524ca508.chunk.css",
+    "static/js/2.767919fc.chunk.js",
     "static/css/main.8b21c420.chunk.css",
-    "static/js/main.55793e04.chunk.js"
+    "static/js/main.23ec78e3.chunk.js"
   ]
 }
