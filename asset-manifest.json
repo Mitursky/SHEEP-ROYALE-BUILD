@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8b21c420.chunk.css",
+    "main.js": "./static/js/main.e94c7a4f.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.3749ca10.js",
+    "static/css/2.df7918ac.chunk.css": "./static/css/2.df7918ac.chunk.css",
+    "static/js/2.5d47028f.chunk.js": "./static/js/2.5d47028f.chunk.js",
+    "static/js/3.e71496bd.chunk.js": "./static/js/3.e71496bd.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.5d47028f.chunk.js.LICENSE.txt": "./static/js/2.5d47028f.chunk.js.LICENSE.txt",
+    "static/media/Apple.836ab751.svg": "./static/media/Apple.836ab751.svg",
+    "static/media/BlackSheep.f35eb150.svg": "./static/media/BlackSheep.f35eb150.svg",
+    "static/media/Fire.4b056ac1.svg": "./static/media/Fire.4b056ac1.svg",
+    "static/media/Frame 45.888b3464.png": "./static/media/Frame 45.888b3464.png",
+    "static/media/Frame 46.d06fdbb0.png": "./static/media/Frame 46.d06fdbb0.png",
+    "static/media/Frame 47.aef1a41a.png": "./static/media/Frame 47.aef1a41a.png",
+    "static/media/Frame 48.2eb75c98.png": "./static/media/Frame 48.2eb75c98.png",
+    "static/media/Frame 49.1f62962a.png": "./static/media/Frame 49.1f62962a.png",
+    "static/media/Frame 50.70cf89ca.png": "./static/media/Frame 50.70cf89ca.png",
+    "static/media/Frame 51.92be276c.png": "./static/media/Frame 51.92be276c.png",
+    "static/media/Frame 52.76d63e5a.png": "./static/media/Frame 52.76d63e5a.png",
+    "static/media/Frame 53.13fda5d8.png": "./static/media/Frame 53.13fda5d8.png",
+    "static/media/SheepRoyaleText.324f0157.svg": "./static/media/SheepRoyaleText.324f0157.svg",
+    "static/media/SmokeSheep.207bb504.svg": "./static/media/SmokeSheep.207bb504.svg",
+    "static/media/Stickerpack.574ed500.png": "./static/media/Stickerpack.574ed500.png",
+    "static/media/banner_sheep.3456e85f.png": "./static/media/banner_sheep.3456e85f.png",
+    "static/media/line.ac7f875e.svg": "./static/media/line.ac7f875e.svg",
+    "static/media/logo.fc0acce4.png": "./static/media/logo.fc0acce4.png",
+    "static/media/panel_background.df2d2854.png": "./static/media/panel_background.df2d2854.png",
+    "static/media/winner.d3bab458.svg": "./static/media/winner.d3bab458.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3749ca10.js",
+    "static/css/2.df7918ac.chunk.css",
+    "static/js/2.5d47028f.chunk.js",
+    "static/css/main.8b21c420.chunk.css",
+    "static/js/main.e94c7a4f.chunk.js"
+  ]
+}
