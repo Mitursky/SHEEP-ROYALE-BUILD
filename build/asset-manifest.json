@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/main.5448e5b5.chunk.css",
-    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.44bef7db.chunk.js",
-    "runtime-main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/runtime-main.01ecee98.js",
+    "main.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/main.888303b7.chunk.css",
+    "main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/main.f3a5c561.chunk.js",
+    "runtime-main.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/runtime-main.4a3e25fa.js",
     "static/css/2.524ca508.chunk.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/css/2.524ca508.chunk.css",
-    "static/js/2.0df74578.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.0df74578.chunk.js",
-    "static/js/3.e71496bd.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/3.e71496bd.chunk.js",
+    "static/js/2.3e83bc70.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.3e83bc70.chunk.js",
+    "static/js/3.248ac211.chunk.js": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/3.248ac211.chunk.js",
     "index.html": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/index.html",
-    "static/js/2.0df74578.chunk.js.LICENSE.txt": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.0df74578.chunk.js.LICENSE.txt",
+    "static/js/2.3e83bc70.chunk.js.LICENSE.txt": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/js/2.3e83bc70.chunk.js.LICENSE.txt",
     "static/media/Apple.9169d479.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/Apple.9169d479.svg",
     "static/media/BlackSheep.4de06083.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/BlackSheep.4de06083.svg",
     "static/media/Fire.8c4394a2.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/Fire.8c4394a2.svg",
@@ -23,18 +23,20 @@
     "static/media/SheepRoyaleText.6310a86a.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/SheepRoyaleText.6310a86a.svg",
     "static/media/SmokeSheep.16669673.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/SmokeSheep.16669673.svg",
     "static/media/Stickerpack.574ed500.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/Stickerpack.574ed500.png",
+    "static/media/apple_icon.0dcaea07.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/apple_icon.0dcaea07.svg",
     "static/media/banner_sheep.3456e85f.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/banner_sheep.3456e85f.png",
     "static/media/line.4304bce5.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/line.4304bce5.svg",
     "static/media/logo.fc0acce4.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/logo.fc0acce4.png",
     "static/media/panel_background.df2d2854.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/panel_background.df2d2854.png",
+    "static/media/profile.css": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/profile_background.6843e287.png",
     "static/media/sheep.6dd264bd.png": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/sheep.6dd264bd.png",
     "static/media/winner.4ca2b182.svg": "https://mitursky.github.io/SHEEP-ROYALE-BUILD/build/static/media/winner.4ca2b182.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.01ecee98.js",
+    "static/js/runtime-main.4a3e25fa.js",
     "static/css/2.524ca508.chunk.css",
-    "static/js/2.0df74578.chunk.js",
-    "static/css/main.5448e5b5.chunk.css",
-    "static/js/main.44bef7db.chunk.js"
+    "static/js/2.3e83bc70.chunk.js",
+    "static/css/main.888303b7.chunk.css",
+    "static/js/main.f3a5c561.chunk.js"
   ]
 }
